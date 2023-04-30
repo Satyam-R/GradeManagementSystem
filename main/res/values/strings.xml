@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lovely Schools</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Interfaces">
+        <item>Login</item>
+        <item>Sign Up</item>
+        <item>Home</item>
+        <item>View Grades</item>
+        <item>Add/Delete Grades</item>
+        <item>Feedback</item>
+    </string-array>
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="alredy_have_and_account">Forget your password ?<font color="#694004"> Reset</font></string>
+    <string name="already">Already have an account ?<font color="#694004"> Login</font></string>
+    <string name="create">Dont\'t have account ?<font color="#694004"> Sign-Up</font></string>
+    <string name="hello">Hello!  </string>
+
+</resources>
